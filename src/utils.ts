@@ -12,7 +12,7 @@ import {
   TimeoutInfinite,
   Transaction,
   TransactionBuilder,
-} from "stellar-base";
+} from "skyhitz-stellar-base";
 import { InvalidSep10ChallengeError } from "./errors";
 import { ServerApi } from "./server_api";
 

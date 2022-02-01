@@ -1,4 +1,4 @@
-import { AssetType } from "stellar-base";
+import { AssetType } from "skyhitz-stellar-base";
 import { Horizon } from "./../horizon_api";
 
 export interface OfferAsset {

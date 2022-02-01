@@ -1,4 +1,4 @@
-import { AssetType } from "stellar-base";
+import { AssetType } from "skyhitz-stellar-base";
 import { Horizon } from "./../horizon_api";
 export interface AssetRecord extends Horizon.BaseResponse {
   asset_type: AssetType.credit4 | AssetType.credit12;
